@@ -3,6 +3,17 @@
     <channel>
         <title>VibeScribe</title>
         <item>
+            <title>1.2.4</title>
+            <pubDate>Thu, 15 Jan 2026 10:49:23 -0600</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/VibeScribe_v1.2.4_b35.zip" length="1199988" type="application/octet-stream" sparkle:edSignature="iVnabgB+HUaQjXntY+Sgs37tspyK6XX7T4IzJQgpTrZMWGIH1SU90S9yvyMOECj0FfVntS9XG1AP1MPcccZKAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/VibeScribe35-11.delta" sparkle:deltaFrom="11" length="55066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862672" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kQJ37Bu73CH8b1+kVhl1m/B+dlDwW/dRi+Cm0nKLkubvVkF0j/tz91pZcLsMV26/4CjlGPH9eAaLmxXcX9D9Cg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.2</title>
             <pubDate>Thu, 15 Jan 2026 07:59:55 -0600</pubDate>
             <sparkle:version>11</sparkle:version>
