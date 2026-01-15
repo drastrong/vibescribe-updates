@@ -8,7 +8,7 @@
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://drastrong.github.io/vibescribe-updates/VibeScribe_v1.1.2_b11.zip" length="1191414" type="application/octet-stream" sparkle:edSignature="9EPz8ROCnOyM5EfpgBlzbVSIPxouKPWqMTASOMJbHQkintwjy6u0ahFET09dq2sr5tc1sb2JJgH9++MBYcgDBw=="/>
+            <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/VibeScribe_v1.1.2_b11.zip" length="1191414" type="application/octet-stream" sparkle:edSignature="xDPcdRWbGn+uo0Vlw5irp5ieWh33Vy2jSLKS7X2PXYK3ppzZ+s/dq5yindeuHBwGqoVvbmpEaWcqPr2ZJRlBAQ=="/>
         </item>
     </channel>
 </rss>
