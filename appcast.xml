@@ -3,19 +3,27 @@
     <channel>
         <title>vibeScribe</title>
         <item>
+            <title>1.9.0</title>
+            <pubDate>Fri, 18 Sep 2026 18:11:31 -0500</pubDate>
+            <sparkle:version>134</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/vibeScribe_v1.9.0_b134.zip" length="2901316" type="application/octet-stream" sparkle:edSignature="+Cl7pvZ5BKzPhebQvlNGTqc0mFnw5NnPTvIN3ru6SEfd9CWVOCNybvoX5sT46jQrbzOIXqY5uqiNFaUy6pvSBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/vibeScribe134-133.delta" sparkle:deltaFrom="133" length="110286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zU7W21bXCAkseEe3W9lVR765TY0jhdAqEQp2GmnIOD5M19yx6UCO5ySc1oLAPzaXabL0zSmIUo1m8JVlE9+3BQ=="/>
+                <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/vibeScribe134-127.delta" sparkle:deltaFrom="127" length="200718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="S321sakRxShCU3rRePssCxKHPE7PwQdz/FRs46dZwvNmxIyKI464PYE67P68rRu+FcUs48foYEmaQ31zzuphBQ=="/>
+                <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/vibeScribe134-126.delta" sparkle:deltaFrom="126" length="260238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gF28HpR7QzGcEe3xqZfSY2egTzms5cmXEe9wjt6twDs0jE8Qx0uzqn2esGfOERluHcdBu2G06g2Mh/cDjEW9Ag=="/>
+                <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/vibeScribe134-114.delta" sparkle:deltaFrom="114" length="329062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6RfHQhCx3hS1wYiukpio3l6YtGcScVVs+P3PP2+fI8G0zchq4rYMla0JgEXl1c/oNbtUaq+7980UpPQe0VwYBQ=="/>
+                <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/vibeScribe134-113.delta" sparkle:deltaFrom="113" length="329082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UIdrmMHOaEH4lIo3G2LiTrnSEpjW37G9wA+CadZxv1Ek9TYW+kXyJBDZli6RJ/tzyLM6pt0Tn3AFRQJs2kWZCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.0</title>
             <pubDate>Thu, 27 Aug 2026 13:32:17 -0500</pubDate>
             <sparkle:version>133</sparkle:version>
             <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/vibeScribe_v1.8.0_b133.zip" length="2918857" type="application/octet-stream" sparkle:edSignature="WAmjygO5tfJ96mJApjo21oTsghTyFp5ElCv6hdiZJhMv0ojcepy8drrxmaG4W0eRgh3uKe0PNHU0Jfz9V4/7Bg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/vibeScribe133-127.delta" sparkle:deltaFrom="127" length="191526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EAbDCJO0sXmQgLkuOzUrhCeKxZBJSE3S6R0HC3VmABbgpBZ5nfeOuLPwIAl9Ls7DxsS1/556zanI9fbFYe/MBg=="/>
-                <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/vibeScribe133-126.delta" sparkle:deltaFrom="126" length="257878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rNzJ+KXh42a5w8pGYBnClE+qd87J9CGAthpNqdC7gO+R5jjRXcSaPg/5UjvP74+whSYg+GBoIfg1udbtd6IQBA=="/>
-                <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/vibeScribe133-114.delta" sparkle:deltaFrom="114" length="339318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/wFfoBvJSME4Y5OHcz/a4G9rJHaFafZ0rHqsvfBOA/ZY1DOUiWoyPoCPdkw3El73jZ36L7ZN1/rS8vGY3GUBDQ=="/>
-                <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/vibeScribe133-113.delta" sparkle:deltaFrom="113" length="339874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fft+H7IiU7DEDxkc8SZxArssFVazk2FBoI+F6u5tke8s9o6F4owwXg6KH0tZOD3xqaN7p5nmnFFMYlUNZjYCAA=="/>
-                <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/vibeScribe133-112.delta" sparkle:deltaFrom="112" length="342366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Gg5zNbdIy+9891CkeyHl1Pi6jcAfaERDEDPUQSHTlk8luVoR7SAQcdLE5QwM88IKSOUJoe7vJJTwPnWmrj8mAw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.6.1</title>
@@ -24,14 +32,6 @@
             <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/vibeScribe_v1.6.1_b127.zip" length="2827406" type="application/octet-stream" sparkle:edSignature="pdNTLwwV9GsRVsuQ5TpKZcEFzZPmWQE8igSA4OG0akqf91zs7U1eexFt/1wqyT13kdgJ+8T8OHIDtpVmOYKuCA=="/>
-        </item>
-        <item>
-            <title>1.6.0</title>
-            <pubDate>Mon, 20 Jul 2026 17:08:06 -0500</pubDate>
-            <sparkle:version>126</sparkle:version>
-            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://drastrong.github.io/vibescribe-updates/releases/vibeScribe_v1.6.0_b126.zip" length="2778555" type="application/octet-stream" sparkle:edSignature="5XTVzLZ/L/h7h1QaRjxhUXSdAW0yqtbJIOCxu4mPERZ8khuswnX0RpUVNftYOCum7XleBTbRo9cs2/QZV8lkCA=="/>
         </item>
     </channel>
 </rss>
